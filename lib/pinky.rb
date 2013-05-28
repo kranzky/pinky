@@ -1,18 +1,25 @@
 require 'logger'
+require 'hashie'
 
 require 'pinky/version'
-require 'pinky/runner' 
+require 'pinky/utilities'
+require 'pinky/runner'
 
 module Pinky
 
   def self.run(args)
     runtime = Pinky::Runner.new
-    runtime.configure(args)
-    runtime.go!
+    runtime.init(args)
+    runtime.load
+    runtime.exec
   end
 
   def self.logger
     @@logger ||= Logger.new(STDOUT)
+  end
+
+  def self.config
+    @@config ||= Hashie::Mash.new
   end
 
 end

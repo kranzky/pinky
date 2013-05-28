@@ -12,13 +12,15 @@ module Pinky
       _start_logging
     end
 
-    def configure(args)
-      # TODO: parse config json if there
-      # TODO: log to a file etc
+    def init(args)
     end
 
-    def go!
-      window = Pinky::Window.new
+    def load
+      Pinky::config.window = Window::Config.new
+    end
+
+    def exec
+      window = Window.new(Pinky::config.window)
       window.show
     end
 

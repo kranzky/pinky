@@ -1,0 +1,1370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"soi",
+				"soil_and_plant"
+			],
+			[
+				"lab",
+				"lab_crop"
+			],
+			[
+				"_so",
+				"_soil_and_plant_user"
+			],
+			[
+				"self",
+				"self_and_children"
+			],
+			[
+				"pad",
+				"paddock"
+			],
+			[
+				"unb",
+				"unblockMessage"
+			],
+			[
+				"user",
+				"userInputFields"
+			],
+			[
+				"complexModel",
+				"complexModelDefinition"
+			],
+			[
+				"retrieve",
+				"retrieveComplexModelDefinition"
+			],
+			[
+				"message",
+				"messages"
+			],
+			[
+				"current_use",
+				"current_user_session"
+			],
+			[
+				"first",
+				"first"
+			],
+			[
+				"Bl",
+				"BlueBoxSyncable"
+			],
+			[
+				"curr",
+				"current_farm"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"ena",
+				"enabled_models"
+			],
+			[
+				"clipbo",
+				"clipboard_links"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"ex",
+				"exact_matches"
+			],
+			[
+				"co",
+				"company"
+			],
+			[
+				"MA",
+				"MAXIMUM_MATCHES"
+			],
+			[
+				"n",
+				"normalized_distance"
+			],
+			[
+				"plan",
+				"planned_season_range"
+			],
+			[
+				"d",
+				"do: Insert do |variable| … end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/pinky.rb",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/pinky/runner.rb",
+			"settings":
+			{
+				"buffer_size": 559,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"snip",
+				"Snippet: def … end"
+			],
+			[
+				"rail",
+				"RubyTest: Generate Rails Controller"
+			],
+			[
+				"sni",
+				"Snippet: New Block"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jason/dev/agworld-scripts/sysadmin/release-management/config.json",
+		"/Users/jason/dev/website/spec/controllers/web_api/ipad/activities_controller_spec.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/paddock_summaries_controller.rb",
+		"/Users/jason/dev/website/app/models/activities/activity_input.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/activities_controller.rb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/refactor.txt",
+		"/Users/jason/Dropbox/Agworld/config/Notes/life.txt",
+		"/Users/jason/dev/website/spec/controllers/activities_controller_spec.rb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/work.TODO",
+		"/Users/jason/Dropbox/Agworld/config/Notes/remix.txt",
+		"/Users/jason/dev/website/.powenv",
+		"/Users/jason/dev/website/app/controllers/web_api/unit_definitions_controller.rb",
+		"/Users/jason/dev/website/app/models/option.rb",
+		"/Users/jason/dev/website/app/models/setting.rb",
+		"/Users/jason/dev/website/app/models/activities/activity.rb",
+		"/Users/jason/dev/website/app/models/field_unit.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/user_preferences_controller.rb",
+		"/Users/jason/dev/website/app/models/activities/activity_problem.rb",
+		"/Users/jason/dev/website/app/views/activities/_form.html.erb",
+		"/Users/jason/dev/website/app/views/activities/_observations_dialog.html.erb",
+		"/Users/jason/dev/website/app/controllers/api/options_controller.rb",
+		"/Users/jason/dev/website/lib/quantize.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/options_controller.rb",
+		"/Users/jason/dev/website/app/controllers/activity_problems_controller.rb",
+		"/Users/jason/dev/website/spec/fixtures/activity_problems.yml",
+		"/Users/jason/dev/website/app/controllers/api/activities_controller.rb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/doug.txt",
+		"/Users/jason/dev/website/app/views/activity_inputs/_form_row.html.erb",
+		"/Users/jason/dev/website/app/controllers/activities_controller.rb",
+		"/Users/jason/dev/website/lib/make_unit.rb",
+		"/Users/jason/dev/website/app/models/form_grid.rb",
+		"/Users/jason/dev/website/app/controllers/activity_inputs_controller.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jason/Dropbox/rocket_idea.txt",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jason/dev/website/app/views/activities/edit.html.erb",
+		"/Users/jason/dev/website/spec/controllers/web_api/user_preferences_controller_spec.rb",
+		"/Users/jason/dev/website/app/controllers/field_units_controller.rb",
+		"/Users/jason/dev/website/app/models/user_preference.rb",
+		"/Users/jason/dev/website/db/seeds/units/unit_definitions.json",
+		"/Users/jason/dev/website/app/controllers/web_api/web_api_application.rb",
+		"/Users/jason/dev/website/lib/api/bluebox/sync.rb",
+		"/Users/jason/dev/bluebox/models/event.rb",
+		"/Users/jason/dev/bluebox/models/delta.rb",
+		"/Users/jason/dev/website/lib/api/bluebox/callbacks.rb",
+		"/Users/jason/dev/website/app/models/unit_definition.rb",
+		"/Users/jason/dev/website/lib/api/bluebox.rb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/home.TODO",
+		"/Users/jason/dev/website/lib/unit_definitions.rb",
+		"/Users/jason/Documents/Kranzky.oolite-save",
+		"/Users/jason/Dropbox/Agworld/config/Notes/life_schedule",
+		"/Users/jason/dev/bluebox/postman/bluebox-collection.json",
+		"/Users/jason/dev/bluebox/entities/event.rb",
+		"/Users/jason/dev/bluebox/models/vlist.rb",
+		"/Users/jason/dev/bluebox/models/client.rb",
+		"/Users/jason/dev/bluebox/api/diff.rb",
+		"/Users/jason/dev/website/lib/api/visible.rb",
+		"/Users/jason/dev/website/app/models/relevance.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/bluebox_controller.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/relevances_controller.rb",
+		"/Users/jason/dev/bluebox/api.rb",
+		"/Users/jason/dev/website/app/models/codec.rb",
+		"/Users/jason/dev/website/lib/lab_analysis_importer_csbp.rb",
+		"/Users/jason/dev/website/app/models/sample.rb",
+		"/Users/jason/dev/website/app/models/segment.rb",
+		"/Users/jason/dev/website/app/models/atp_crop.rb",
+		"/Users/jason/dev/website/spec/support/files/lab_analyses/PFNixonSoil.xml",
+		"/Users/jason/dev/website/spec/lib/lab_analysis_importer_csbp_spec.rb",
+		"/Users/jason/dev/website/app/controllers/user_reports_controller.rb",
+		"/Users/jason/dev/website/app/assets/javascripts/new/appraisals.js.coffee",
+		"/Users/jason/dev/website/app/controllers/api/relevances_controller.rb",
+		"/Users/jason/dev/website/app/controllers/auto_completes_controller.rb",
+		"/Users/jason/dev/website/lib/contexts/calculate_relevances_context.rb",
+		"/Users/jason/dev/website/lib/contexts/calculate_standard_auto_complete.rb",
+		"/Users/jason/dev/website/app/controllers/api/api_controller.rb",
+		"/Users/jason/dev/website/app/controllers/api/paddocks_controller.rb",
+		"/Users/jason/dev/website/app/models/user.rb",
+		"/Users/jason/dev/website/app/controllers/web_api/paddocks_controller.rb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/speed.txt",
+		"/Users/jason/dev/website/app/controllers/application_controller.rb",
+		"/Users/jason/dev/website/app/controllers/planned_seasons_controller.rb",
+		"/Users/jason/dev/website/app/views/planned_seasons/show.html.erb",
+		"/Users/jason/dev/website/app/views/planned_seasons/show.js.erb",
+		"/Users/jason/dev/website/app/views/planned_seasons/_show_rotations.html.erb",
+		"/Users/jason/dev/website/app/views/paddock_plans/_show_rotations.html.erb",
+		"/Users/jason/dev/website/lib/relevance_array.rb",
+		"/Users/jason/dev/website/app/views/planned_seasons/_show_plan.html.erb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/elders.TODO",
+		"/Users/jason/Dropbox/Agworld/config/Notes/diary.txt",
+		"/Users/jason/dev/flagon/postman/wino-collection.json",
+		"/Users/jason/Dropbox/Agworld/config/Notes/server.txt",
+		"/Users/jason/dev/swimsuit/lib/swimsuit/strategies/interface.rb",
+		"/Users/jason/dev/swimsuit/lib/swimsuit/api.rb",
+		"/Users/jason/dev/website/app/controllers/user_sessions_controller.rb",
+		"/Users/jason/dev/website/app/controllers/admin/users_controller.rb",
+		"/Users/jason/Dropbox/Agworld/config/Notes/christmas.TODO",
+		"/Users/jason/Dropbox/Agworld/config/Notes/megahal.TODO",
+		"/Users/jason/dev/website/lib/pinion.rb",
+		"/Users/jason/dev/website/lib/tasks/pinion.rake",
+		"/Users/jason/dev/website/pinion_notes.txt",
+		"/Users/jason/dev/website/lib/seed_data.rb",
+		"/Users/jason/dev/website/config/application.rb",
+		"/Users/jason/dev/website/app/controllers/cbh_audit_checklists_controller.rb",
+		"/Users/jason/dev/website/app/models/cbh_audit_checklist.rb",
+		"/Users/jason/dev/website/config/environments/staging.rb",
+		"/Users/jason/dev/website/coverage/app-models-paddock_rb.html",
+		"/Users/jason/dev/website/config/environments/static_development.rb",
+		"/Users/jason/dev/website/app/controllers/appraisals_controller.rb",
+		"/Users/jason/dev/website/app/controllers/users_controller.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/jason/dev/website/README.md",
+		"/Users/jason/dev/website/app/models/appraisal.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jason/dev/website/app/models/user_session.rb",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jason/dev/website/spec/support/model_macros.rb",
+		"/Users/jason/Documents/home.TODO",
+		"/Users/jason/Documents/work.TODO",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/Default/work.TODO",
+		"/Users/jason/Library/Application Support/Sublime Text 2/Packages/Default/home.TODO",
+		"/Users/jason/dev/website/coverage/screen.css",
+		"/Users/jason/dev/website/coverage/index.html",
+		"/Users/jason/dev/website/app/controllers/activity_paddocks_controller.rb",
+		"/Users/jason/dev/website/app/controllers/samples_controller.rb",
+		"/Users/jason/dev/website/app/models/interpretation_system.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"rate",
+			"_get_input",
+			"_calculate_units_from_input_and_mix_method",
+			"_set_activity_input_rate",
+			"_set_activity_input_unit_cost",
+			"_get_activity_input_rate_units",
+			"_calculate_units_from_input_and_mix_method",
+			"_get_activity_input_baseline_units",
+			"_get_activity_input_cost_units",
+			"get_units",
+			"calculate_units_from_input_and_mix_method",
+			"_calculate_units_from_input_and_mix_method",
+			"calculate_units_f",
+			"def rate",
+			"_get_activity_input_rate_units",
+			"rate",
+			"xxx",
+			"input",
+			"_set_activity_input_rate",
+			"get_units",
+			"input(",
+			"get_un",
+			"numerator",
+			"mix_method",
+			"get_units",
+			"baseline_",
+			"_set_unit_cost",
+			"unit_cost_without_units",
+			"_set_rate",
+			"_get_cost_units",
+			"_get_rate_units",
+			"set_rate",
+			"rate",
+			"send(",
+			"send(\"",
+			"unit_cost",
+			"TODO",
+			"rate_units",
+			"get_units",
+			"dollar",
+			"unit_cost",
+			"_set_unit_cost",
+			"ai",
+			"unit_cost",
+			"without_units",
+			"unit_cost",
+			"area",
+			"rate_units",
+			"is_a",
+			"field",
+			"dimension",
+			"_dimension",
+			"units",
+			"quant",
+			"_set_activity_dates",
+			"rate",
+			"spray_r",
+			"  \"spray_rate\": 40,\n",
+			"rate",
+			"spray",
+			"temper",
+			"wind_speed",
+			"review",
+			"units",
+			"wind_s",
+			"wind",
+			"get_quantized_label",
+			"get_q",
+			"symboliz",
+			"get_quantized_options",
+			"get_q",
+			"_get_preferred_units",
+			"\\.send",
+			"TODO",
+			"MAP",
+			"imperial",
+			"imperian",
+			"units",
+			"get_p",
+			"FieldU",
+			"dimension",
+			"TODO",
+			"units",
+			"units =",
+			"units",
+			"round",
+			"imperial_map",
+			"-9",
+			":field",
+			"field",
+			"quantized_fields",
+			"define",
+			"map",
+			"enum",
+			"values",
+			"map",
+			"enum",
+			"attr_name",
+			"quant",
+			"baseline",
+			"Temperature",
+			"units",
+			"make_u",
+			"units",
+			"label",
+			"labelnnnnnnn",
+			"label",
+			"units",
+			"map",
+			"_label",
+			"_map",
+			"suffix",
+			"unit",
+			"velocity",
+			"m/s",
+			"wind",
+			"{\n  \"client_key\": \"bba23660-9b69-0130-8574-02eeb47d8ac9\",\n  \"humidity_label\": \"60\",\n  \"dirty\": 1,\n  \"date_due\": 0,\n  \"spray_rate\": 40,\n  \"temperature_label\": \"16 - 20\",\n  \"type\": \"RecommendedActivity\",\n  \"activity_paddocks\": [\n    {\n      \"area\": 100,\n      \"paddock_id\": 6136\n    }\n  ],\n  \"created_at\": 1368693036.826319,\n  \"updated_at\": 0,\n  \"activity_pests\": [\n    {\n      \"stage\": \"\",\n      \"coverage\": 2,\n      \"pest_id\": 21180,\n      \"position\": 0\n    },\n    {\n      \"position\": 2,\n      \"coverage\": 0\n    },\n    {\n      \"position\": 1,\n      \"coverage\": 4,\n      \"pest_id\": 22840\n    }\n  ],\n  \"started_at\": 0,\n  \"completed_at\": 0,\n  \"checksum\": \"submitting\",\n  \"comments\": \"Test for Jas\",\n  \"expiry\": 0,\n  \"company_id\": 275,\n  \"wind_direction_label\": \"NE\",\n  \"weather_conditions\": \"overcast\",\n  \"wind_speed_label\": \"6 - 10\",\n  \"crop_quantities\": [],\n  \"activity_inputs\": [\n    {\n      \"rate\": 2,\n      \"product_id\": 2027,\n      \"unit_cost\": \"20\",\n      \"position\": 1\n    },\n    {\n      \"position\": 2\n    },\n    {\n      \"rate\": 1,\n      \"product_id\": 818,\n      \"unit_cost\": \"10\",\n      \"position\": 0\n    }\n  ],\n  \"version\": \"v1\",\n  \"source\": \"activities\"\nwind",
+			"weather",
+			"veloc",
+			"user",
+			"company",
+			"activity_observations",
+			"observ",
+			"_field_units_hash",
+			"field_units",
+			"_render_no_access",
+			"render_not_found",
+			"render_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/pinky.rb",
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "rvm-auto-ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "hard",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "lib/pinky/runner.rb",
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								264
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "rvm-auto-ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "hard",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"lib/pinky/runner.rb"
+			],
+			[
+				"ipad/accosp",
+				"website/spec/controllers/web_api/ipad/activities_controller_spec.rb"
+			],
+			[
+				"activities_controller_spec.rb",
+				"website/spec/controllers/activities_controller_spec.rb"
+			],
+			[
+				"actinp",
+				"website/app/models/activities/activity_input.rb"
+			],
+			[
+				"web_api/acco",
+				"website/app/controllers/web_api/activities_controller.rb"
+			],
+			[
+				"padsummco",
+				"website/app/controllers/web_api/paddock_summaries_controller.rb"
+			],
+			[
+				"actiinp",
+				"website/app/models/activities/activity_input.rb"
+			],
+			[
+				"fielunit",
+				"website/app/models/field_unit.rb"
+			],
+			[
+				"setting",
+				"website/app/models/setting.rb"
+			],
+			[
+				"webapi/opco",
+				"website/app/controllers/web_api/options_controller.rb"
+			],
+			[
+				"model/actpro",
+				"website/app/models/activities/activity_problem.rb"
+			],
+			[
+				"mod/acpro",
+				"website/app/models/activities/activity_problem.rb"
+			],
+			[
+				"activprob",
+				"website/app/controllers/activity_problems_controller.rb"
+			],
+			[
+				"activpro",
+				"website/spec/fixtures/activity_problems.yml"
+			],
+			[
+				"user_p",
+				"website/app/controllers/web_api/user_preferences_controller.rb"
+			],
+			[
+				"web_api/unit",
+				"website/app/controllers/web_api/unit_definitions_controller.rb"
+			],
+			[
+				"web_api/activcont",
+				"website/app/controllers/web_api/activities_controller.rb"
+			],
+			[
+				"act/obsdia",
+				"website/app/views/activities/_observations_dialog.html.erb"
+			],
+			[
+				"views/activities/form",
+				"website/app/views/activities/_form.html.erb"
+			],
+			[
+				"view/ac/for",
+				"website/app/views/activity_inputs/_form_row.html.erb"
+			],
+			[
+				"webapi/ac",
+				"website/app/controllers/api/activities_controller.rb"
+			],
+			[
+				"ap/mod/op",
+				"website/app/models/option.rb"
+			],
+			[
+				"qua",
+				"website/lib/quantize.rb"
+			],
+			[
+				"model/activ",
+				"website/app/models/activities/activity.rb"
+			],
+			[
+				"webapi/op",
+				"website/app/controllers/api/options_controller.rb"
+			],
+			[
+				"field_",
+				"website/app/models/field_unit.rb"
+			],
+			[
+				"form_gr",
+				"website/app/models/form_grid.rb"
+			],
+			[
+				"quant",
+				"website/lib/quantize.rb"
+			],
+			[
+				"activities/_observations_dialog.html.erb",
+				"website/app/views/activities/_observations_dialog.html.erb"
+			],
+			[
+				"model/actinp",
+				"website/app/models/activities/activity_input.rb"
+			],
+			[
+				"actin",
+				"website/app/controllers/activity_inputs_controller.rb"
+			],
+			[
+				"actco",
+				"website/app/controllers/activities_controller.rb"
+			],
+			[
+				"form_g",
+				"website/app/models/form_grid.rb"
+			],
+			[
+				"field",
+				"website/app/models/field_unit.rb"
+			],
+			[
+				"app/views/activities/_form.html.erb",
+				"website/app/views/activities/_form.html.erb"
+			],
+			[
+				"make_",
+				"website/lib/make_unit.rb"
+			],
+			[
+				"model/acinp",
+				"website/app/models/activities/activity_input.rb"
+			],
+			[
+				"fiel",
+				"website/app/models/field_unit.rb"
+			],
+			[
+				"lib/qua",
+				"website/lib/quantize.rb"
+			],
+			[
+				"model/activity.",
+				"website/app/models/activities/activity.rb"
+			],
+			[
+				"mode/op",
+				"website/app/models/option.rb"
+			],
+			[
+				"web_api/op",
+				"website/app/controllers/web_api/options_controller.rb"
+			],
+			[
+				"webapi/opt",
+				"website/app/controllers/web_api/options_controller.rb"
+			],
+			[
+				"webapi/unitdef",
+				"website/app/controllers/web_api/unit_definitions_controller.rb"
+			],
+			[
+				"webapi/usep",
+				"website/app/controllers/web_api/user_preferences_controller.rb"
+			],
+			[
+				"view/act/ed",
+				"website/app/views/activities/edit.html.erb"
+			],
+			[
+				"ap/co/act",
+				"website/app/controllers/activities_controller.rb"
+			],
+			[
+				"co/we/ac",
+				"website/app/controllers/web_api/activities_controller.rb"
+			],
+			[
+				"spec/webapi/usepr",
+				"website/spec/controllers/web_api/user_preferences_controller_spec.rb"
+			],
+			[
+				"con/webapi/act",
+				"website/app/controllers/web_api/activities_controller.rb"
+			],
+			[
+				"webapiapp",
+				"website/app/controllers/web_api/web_api_application.rb"
+			],
+			[
+				"fiunco",
+				"website/app/controllers/field_units_controller.rb"
+			],
+			[
+				"undefco",
+				"website/app/controllers/web_api/unit_definitions_controller.rb"
+			],
+			[
+				"usprco",
+				"website/app/controllers/web_api/user_preferences_controller.rb"
+			],
+			[
+				"userp",
+				"website/app/models/user_preference.rb"
+			],
+			[
+				"api/bl/sy",
+				"website/lib/api/bluebox/sync.rb"
+			],
+			[
+				"api/bl/call",
+				"website/lib/api/bluebox/callbacks.rb"
+			],
+			[
+				"unit_d",
+				"website/app/models/unit_definition.rb"
+			],
+			[
+				"blue",
+				"website/lib/api/bluebox.rb"
+			],
+			[
+				"blu",
+				"bluebox/postman/bluebox-collection.json"
+			],
+			[
+				"event",
+				"bluebox/models/event.rb"
+			],
+			[
+				"relev",
+				"website/app/models/relevance.rb"
+			],
+			[
+				"api/bl",
+				"website/lib/api/visible.rb"
+			],
+			[
+				"bluebox/ap",
+				"bluebox/api.rb"
+			],
+			[
+				"api/bluebox/",
+				"website/lib/api/bluebox/callbacks.rb"
+			],
+			[
+				"web_api/b",
+				"website/app/controllers/web_api/bluebox_controller.rb"
+			],
+			[
+				"vlis",
+				"bluebox/models/vlist.rb"
+			],
+			[
+				"bl/mod/del",
+				"bluebox/models/delta.rb"
+			],
+			[
+				"bl/mod/cl",
+				"bluebox/models/client.rb"
+			],
+			[
+				"diff",
+				"bluebox/api/diff.rb"
+			],
+			[
+				"web_api/rele",
+				"website/app/controllers/web_api/relevances_controller.rb"
+			],
+			[
+				"web_ap/rel",
+				"app/controllers/web_api/relevances_controller.rb"
+			],
+			[
+				"samplpre",
+				"app/models/appraisal/sample_presentation.rb"
+			],
+			[
+				"mod/app",
+				"app/models/appraisal.rb"
+			],
+			[
+				"apprco",
+				"app/controllers/appraisals_controller.rb"
+			],
+			[
+				"codec",
+				"app/models/codec.rb"
+			],
+			[
+				"model/atp",
+				"app/models/atp_crop.rb"
+			],
+			[
+				"mode/sam",
+				"app/models/sample.rb"
+			],
+			[
+				"mode/seg",
+				"app/models/segment.rb"
+			],
+			[
+				"lib/la",
+				"lib/lab_analysis_importer_csbp.rb"
+			],
+			[
+				"nixo",
+				"spec/support/files/lab_analyses/PFNixonSoil.xml"
+			],
+			[
+				"laanimsp",
+				"spec/lib/lab_analysis_importer_csbp_spec.rb"
+			],
+			[
+				"usereco",
+				"app/controllers/user_reports_controller.rb"
+			],
+			[
+				"appr.js",
+				"app/assets/javascripts/new/appraisals.js.coffee"
+			],
+			[
+				"api/rele",
+				"app/controllers/api/relevances_controller.rb"
+			],
+			[
+				"calculaterelevancescontext",
+				"lib/contexts/calculate_relevances_context.rb"
+			],
+			[
+				"aucoco",
+				"app/controllers/auto_completes_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"apicon",
+				"app/controllers/api/api_controller.rb"
+			],
+			[
+				"paddco",
+				"app/controllers/web_api/paddocks_controller.rb"
+			],
+			[
+				"appco",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"papa/shro",
+				"app/views/paddock_plans/_show_rotations.html.erb"
+			],
+			[
+				"plase/shoro",
+				"app/views/planned_seasons/_show_rotations.html.erb"
+			],
+			[
+				"vie/plase/sh",
+				"app/views/planned_seasons/show.js.erb"
+			],
+			[
+				"vie/plase/so",
+				"app/views/planned_seasons/show.html.erb"
+			],
+			[
+				"plaseco",
+				"app/controllers/planned_seasons_controller.rb"
+			],
+			[
+				"web_api/rel",
+				"app/controllers/web_api/relevances_controller.rb"
+			],
+			[
+				"relevance",
+				"lib/relevance_array.rb"
+			],
+			[
+				"relevance.",
+				"app/models/relevance.rb"
+			],
+			[
+				"api/re",
+				"app/controllers/api/relevances_controller.rb"
+			],
+			[
+				"planse/s",
+				"app/views/planned_seasons/_show_plan.html.erb"
+			],
+			[
+				"vie/plasea/sh",
+				"app/views/planned_seasons/show.js.erb"
+			],
+			[
+				"admin/us",
+				"app/controllers/admin/users_controller.rb"
+			],
+			[
+				"usco",
+				"app/controllers/user_sessions_controller.rb"
+			],
+			[
+				"lib/pin",
+				"lib/pinion.rb"
+			],
+			[
+				"litaspi",
+				"lib/tasks/pinion.rake"
+			],
+			[
+				"seed_d",
+				"lib/seed_data.rb"
+			],
+			[
+				"cbhcss",
+				"app/controllers/cbh_audit_checklists_controller.rb"
+			],
+			[
+				"cbh",
+				"app/models/cbh_audit_checklist.rb"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"app",
+				"coverage/app-models-paddock_rb.html"
+			],
+			[
+				"env/sta",
+				"config/environments/staging.rb"
+			],
+			[
+				"env/dev",
+				"config/environments/development.rb"
+			],
+			[
+				"userc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				".css",
+				"coverage/screen.css"
+			],
+			[
+				"html",
+				"coverage/index.html"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"useco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"intersys",
+				"app/models/interpretation_system.rb"
+			],
+			[
+				"samco",
+				"app/controllers/samples_controller.rb"
+			],
+			[
+				"app/vi/apr/ed",
+				"app/views/appraisals/edit.html.erb"
+			],
+			[
+				"app/viapred",
+				"app/views/admin/profile_settings/edit.html.erb"
+			],
+			[
+				"apprdec",
+				"app/decorators/appraisal_decorator.rb"
+			],
+			[
+				"appr",
+				"app/models/appraisal.rb"
+			],
+			[
+				"inter",
+				"app/models/interpretation_system.rb"
+			],
+			[
+				"codec.",
+				"app/models/codec.rb"
+			],
+			[
+				"samsico",
+				"app/controllers/sample_sites_controller.rb"
+			],
+			[
+				"propcon",
+				"app/controllers/properties_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jason/Dropbox/Agworld/config/dev/projects/modelling-engine-api.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

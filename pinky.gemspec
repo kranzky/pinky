@@ -23,6 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 10.0'
 
   spec.add_dependency 'oj', '~> 2.0'
+  spec.add_dependency 'hashie', '~> 2.0'
   spec.add_dependency 'gosu', '~> 0.7'
   spec.add_dependency 'chipmunk', '~> 5.3'
 end
