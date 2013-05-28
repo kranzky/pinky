@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'pinky'
+
+Pinky::run(ARGV)
