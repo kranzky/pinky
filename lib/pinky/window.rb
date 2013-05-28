@@ -1,3 +1,5 @@
+require 'gosu'
+
 require 'pinky/config'
 
 module Pinky

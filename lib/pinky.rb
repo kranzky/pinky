@@ -8,6 +8,7 @@ require 'pinky/runner'
 module Pinky
 
   def self.run(args)
+    MultiJson.use(:oj)
     runtime = Pinky::Runner.new
     runtime.init(args)
     runtime.load

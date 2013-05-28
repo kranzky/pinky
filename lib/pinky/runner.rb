@@ -1,6 +1,4 @@
-require 'gosu'
 require 'optparse'
-require 'oj'
 
 require 'pinky/window'
 
@@ -12,11 +10,14 @@ module Pinky
       _start_logging
     end
 
+    CONFIG_FILE = 'config.json'
     def init(args)
+      config = Pinky::Utilities.load_config(CONFIG_FILE)
+      Pinky::config.window = Window::Config.new(config.window)
+      Pinky::Utilities.save_config(CONFIG_FILE, Pinky::config)
     end
 
     def load
-      Pinky::config.window = Window::Config.new
     end
 
     def exec

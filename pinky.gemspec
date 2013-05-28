@@ -21,7 +21,9 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 2.13'
   spec.add_development_dependency 'bundler', '~> 1.3'
   spec.add_development_dependency 'rake', '~> 10.0'
+  spec.add_development_dependency 'awesome_print', '~> 1.1'
 
+  spec.add_dependency 'multi_json', '~> 1.7'
   spec.add_dependency 'oj', '~> 2.0'
   spec.add_dependency 'hashie', '~> 2.0'
   spec.add_dependency 'gosu', '~> 0.7'
